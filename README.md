@@ -33,6 +33,7 @@ Criei repositórios para armazenar alguns projetos, atividades e desafios propos
 - Matemática Fundamental 
 
 # 📊 Estatísticas
+
 <p>
      <img 
         align="left" 
@@ -41,7 +42,6 @@ Criei repositórios para armazenar alguns projetos, atividades e desafios propos
         style="padding-right: 10px;" 
         src="https://github-readme-stats.vercel.app/api?username=ONestoGamer&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
         />
-
 
 
 
