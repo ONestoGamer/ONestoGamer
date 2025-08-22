@@ -1,10 +1,12 @@
+Olá! 🖖
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=900&lines=Seja+Bem+Vindo+ao+meu+perfil+do+GitHub!+:%29)](https://git.io/typing-svg)
 # Sobre mim
-Me chamo Ernesto, tenho 36 anos e sou do interior de Sergipe. Atualmente, estou cursando Ciência da Computação na UESA. Sou apaixonado por tecnologia, mas só agora resolvi levar isso para outro patamar e transformar a paixão em carreira, decidi enfim unir o útil ao agradável. Também sou streamer na Twitch com o canal [O Nesto Gamer](https://www.twitch.tv/onestogamer) sempre nas segundas, quartas e sextas. Vou tentar implementar lives "codando" e ver no que vai dar.
+### Me chamo Ernesto, tenho 36 anos e sou do interior de Sergipe. Atualmente, estou cursando Ciência da Computação na UESA. Sou apaixonado por tecnologia, mas só agora resolvi levar isso para outro patamar e transformar a paixão em carreira, decidi enfim unir o útil ao agradável. Também sou streamer na Twitch com o canal [O Nesto Gamer](https://www.twitch.tv/onestogamer) sempre nas segundas, quartas e sextas. Vou tentar implementar lives "codando" e ver no que vai dar.
 
 # Minhas Redes
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernesto-santana-b1822937) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernesto-santana-b1822937) 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@ONestoGamer/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ernesto.silva.s/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ONestoGamer) 
@@ -21,7 +23,7 @@ Me chamo Ernesto, tenho 36 anos e sou do interior de Sergipe. Atualmente, estou 
 
 
 # Praticando
-Criei repositórios para armazenar alguns projetos, atividades e desafios propostos nos cursos que fiz e que irei fazer junto a [Alura](https://cursos.alura.com.br/imer0soes), [DIO](https://www.dio.me/) e a UESA - [Universidade Estácio de Sá](https://estacio.br).
+#### Criei repositórios para armazenar alguns projetos, atividades e desafios propostos nos cursos que fiz e que irei fazer junto a [Alura](https://cursos.alura.com.br/imer0soes), [DIO](https://www.dio.me/) e a UESA - [Universidade Estácio de Sá](https://estacio.br).
 
 # 📚 Disciplinas Cursadas (até o momento)
 - Introdução à Programação de Computadores
@@ -32,16 +34,15 @@ Criei repositórios para armazenar alguns projetos, atividades e desafios propos
 - Algoritmos e Programação
 - Matemática Fundamental 
 
-# 📊 Estatísticas
-
+# 📊 Estatísticas 
 <p>
-     <img 
-        align="center" 
-        alt="GitHub Stats" 
-        height="350" 
-        style="padding-right: 15px;" 
-        src="https://github-readme-stats.vercel.app/api?username=ONestoGamer&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-        />
+        <img 
+            align="center" 
+            alt="GitHub Stats" 
+            height="350" 
+            style="padding-right: 15px;" 
+            src="https://github-readme-stats.vercel.app/api?username=ONestoGamer&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+/> 
 
 
 
