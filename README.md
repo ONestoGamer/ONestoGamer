@@ -36,7 +36,7 @@ Criei repositórios para armazenar alguns projetos, atividades e desafios propos
 
 <p>
      <img 
-        align="left" 
+        align="center" 
         alt="GitHub Stats" 
         height="350" 
         style="padding-right: 15px;" 
