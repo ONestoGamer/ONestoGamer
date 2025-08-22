@@ -2,7 +2,7 @@
 
 **`Estudante de Ciência da Computação`**
 
-Me chamo Ernesto, tenho 36 anos e sou do interior de Sergipe. Atualmente, estou cursando Ciência da Computação na UESA. Sou apaixonado por tecnologia, mas só agora resolvi levar isso a serio como oportunidade de carreira, decidi enfim unir o util ao agradável. Também sou streamer na Twitch com o canal "[O Nesto Gamer](https://www.twitch.tv/onestogamer) sempre nas segundas, quartas e sextas. Vou tentar implementar lives "codando" e ver no que vai dar.
+Me chamo Ernesto, tenho 36 anos e sou do interior de Sergipe. Atualmente, estou cursando Ciência da Computação na UESA. Sou apaixonado por tecnologia, mas só agora resolvi levar isso para outro patamar e transformar a paixão em carreira, decidi enfim unir o útil ao agradável. Também sou streamer na Twitch com o canal [O Nesto Gamer](https://www.twitch.tv/onestogamer) sempre nas segundas, quartas e sextas. Vou tentar implementar lives "codando" e ver no que vai dar.
 
 <p align="left">
        </a>
