@@ -2,7 +2,7 @@ Olá! 🖖
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=900&lines=Seja+Bem+Vindo+ao+meu+perfil+do+GitHub!+:%29)](https://git.io/typing-svg)
 # Sobre mim
-### Me chamo Ernesto, tenho 36 anos e sou do interior de Sergipe. Atualmente, estou cursando Ciência da Computação na UESA e Sistemas de informação no IFS. Sou apaixonado por tecnologia, mas só agora resolvi levar isso para outro patamar e transformar a paixão em carreira, decidi enfim unir o útil ao agradável. Também sou streamer na Twitch com o canal [O Nesto Gamer](https://www.twitch.tv/onestogamer) sempre nas segundas, quartas e sextas. Vou tentar implementar lives "codando" e ver no que vai dar.
+### Me chamo Ernesto, tenho 36 anos e sou do interior de Sergipe. Atualmente, estou cursando Ciência da Computação na UESA e Sistemas de informação no IFS. Sou apaixonado por tecnologia, mas só agora resolvi levar isso para outro patamar e transformar a paixão em carreira, decidi enfim unir o útil ao agradável. Também sou streamer na Twitch com o canal [O Nesto Gamer](https://www.twitch.tv/onestogamer) sempre nas sextas, sábados e domingos. Vou tentar implementar lives "codando" e ver no que vai dar.
 
 # Minhas Redes
 
