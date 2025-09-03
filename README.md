@@ -2,7 +2,7 @@ Olá! 🖖
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=900&lines=Seja+Bem+Vindo+ao+meu+perfil+do+GitHub!+:%29)](https://git.io/typing-svg)
 # Sobre mim
-### Me chamo Ernesto, tenho 36 anos e sou do interior de Sergipe. Atualmente, estou cursando Ciência da Computação na UESA. Sou apaixonado por tecnologia, mas só agora resolvi levar isso para outro patamar e transformar a paixão em carreira, decidi enfim unir o útil ao agradável. Também sou streamer na Twitch com o canal [O Nesto Gamer](https://www.twitch.tv/onestogamer) sempre nas segundas, quartas e sextas. Vou tentar implementar lives "codando" e ver no que vai dar.
+### Me chamo Ernesto, tenho 36 anos e sou do interior de Sergipe. Atualmente, estou cursando Ciência da Computação na UESA e Sistemas de informação no IFS. Sou apaixonado por tecnologia, mas só agora resolvi levar isso para outro patamar e transformar a paixão em carreira, decidi enfim unir o útil ao agradável. Também sou streamer na Twitch com o canal [O Nesto Gamer](https://www.twitch.tv/onestogamer) sempre nas segundas, quartas e sextas. Vou tentar implementar lives "codando" e ver no que vai dar.
 
 # Minhas Redes
 
@@ -23,7 +23,7 @@ Olá! 🖖
 
 
 # Praticando
-#### Criei repositórios para armazenar alguns projetos, atividades e desafios propostos nos cursos que fiz e que irei fazer junto a [Alura](https://cursos.alura.com.br/imer0soes), [DIO](https://www.dio.me/) e a UESA - [Universidade Estácio de Sá](https://estacio.br).
+#### Criei repositórios para armazenar alguns projetos, atividades e desafios propostos nos cursos que fiz e que irei fazer junto a [Alura](https://cursos.alura.com.br/imer0soes), [DIO](https://www.dio.me/), [IFS](https://www.ifs.edu.br/lagarto.html) e a UESA - [Universidade Estácio de Sá](https://estacio.br).
 
 # 📚 Disciplinas Cursadas (até o momento)
 - Introdução à Programação de Computadores
@@ -59,6 +59,7 @@ Olá! 🖖
 
 
 ## 🔎 Referências
+- [Instituto Federal de Sergipe](https://www.ifs.edu.br/lagarto.html).
 - [Digital Inovation One](https://www.dio.me/).
 - [Alura](https://cursos.alura.com.br/).
 - [Universidade Estácio de Sá](https://estacio.br).
