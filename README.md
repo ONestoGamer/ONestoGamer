@@ -39,14 +39,16 @@ Olá! 🖖
 - Portugês Instrumental
 
 # 📊 Estatísticas 
-<p>
-  <img 
-    align="center"
-    alt="GitHub Stats"
-    height="180"
+<div align="center">
+  <img
+    height="160"
     src="https://github-readme-stats.vercel.app/api?username=ONestoGamer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
   />
-</p>
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ONestoGamer&layout=compact&theme=tokyonight&locale=pt-br"
+  />
+</div>
 
 
 
