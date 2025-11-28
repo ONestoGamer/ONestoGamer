@@ -32,7 +32,11 @@ Olá! 🖖
 - Pensamento Computacional
 - Comounicação e Expressão
 - Algoritmos e Programação
-- Matemática Fundamental 
+- Matemática Discreta
+- Lóogica Matemática
+- Fundamentos de Programação
+- Computação em Nuvem
+- Portugês Instrumental
 
 # 📊 Estatísticas 
 <p>
