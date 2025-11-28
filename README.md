@@ -56,6 +56,16 @@ Olá! 🖖
 | Ambiente de Desenvolvimento e Primeiros Passos com Python | [DIO](https://www.dio.me/)|
 | Conhecendo a Linguagem de Programação Python | [DIO](https://www.dio.me/) |
 | Desafios de Projetos: Crie Um Portfólio Vencedor | [DIO](https://www.dio.me/) | 
+| Santander 2025 - Fundamentos de Lógica de Programação |  [DIO](https://www.dio.me/) |
+| PcD Tech Bradesco - Java & QA Developer |  [DIO](https://www.dio.me/) |
+| Formação Java Fundamentals |  [DIO](https://www.dio.me/) |
+| Nexa - Machine Learning e GenAI na Prática |  [DIO](https://www.dio.me/) |
+| CI&T - Backend com Java & AWS |  [DIO](https://www.dio.me/) |
+| Accenture - Desenvolvimento Java & Cloud |  [DIO](https://www.dio.me/) |
+| CAIXA - Inteligência Artificial na Prática |  [DIO](https://www.dio.me/) |
+| Luizalabs - Back-end com Python |  [DIO](https://www.dio.me/) |
+
+
 
 
 ## 🔎 Referências
