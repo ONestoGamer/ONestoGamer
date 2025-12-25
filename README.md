@@ -2,7 +2,7 @@ Olá! 🖖
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=900&lines=Seja+Bem+Vindo+ao+meu+perfil+do+GitHub!+:%29)](https://git.io/typing-svg)
 # Sobre mim
-### Me chamo Ernesto, tenho 36 anos e sou do interior de Sergipe. Profissional em transição de carreira para tecnologia, atualmente cursando Ciência da Computação e Sistemas de Informação. Apaixonado por soluções digitais, tenho experiência prática no desenvolvimento de projetos acadêmicos e uma sólida motivação para aprender continuamente. Estou construindo uma base sólida em desenvolvimento back-end e lógica de programação, com projetos e estudos focados em Python e Java. Também possuo conhecimento em C/C++, o que me proporciona uma compreensão mais profunda dos fundamentos da computação e de ferramentas web e cloud, e estou ampliando meu repertório técnico focado em resultados.
+### Me chamo Ernesto, tenho 37 anos e sou do interior de Sergipe. Profissional em transição de carreira para tecnologia, atualmente cursando o segundo ano de Ciência da Computação e Sistemas de Informação. Apaixonado por soluções digitais, tenho experiência prática no desenvolvimento de projetos acadêmicos e uma grande motivação para aprender continuamente. Estou construindo uma base forte em desenvolvimento back-end e lógica de programação, com projetos e estudos focados em Java e Python. Também possuo conhecimento em C/C++, o que me proporciona uma entendimento mais profundo dos fundamentos da computação e de ferramentas web e cloud, e estou ampliando meu repertório técnico focado em resultados.
 
 # Minhas Redes
 
