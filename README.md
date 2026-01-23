@@ -25,18 +25,20 @@ Olá! 🖖
 # Praticando
 #### Criei repositórios para armazenar alguns projetos, atividades e desafios propostos nos cursos que fiz e que irei fazer junto a [Alura](https://cursos.alura.com.br/imer0soes), [DIO](https://www.dio.me/), [IFS](https://www.ifs.edu.br/lagarto.html) e a UESA - [Universidade Estácio de Sá](https://estacio.br).
 
-# 📚 Disciplinas Cursadas (até o momento)          
-|- Introdução à Programação de Computadores |             |- Cálculo 1 |
-|- Fundamentos de Redes de Computadores     |             |- Lógica Aplicada a Computação |
-|- Introdução a Segurança da Informação     |             |- Programação Estruturada |
-|- Pensamento Computacional                 |             |- Educação Ambiental |
-|- Comounicação e Expressão                 |             |- Banco de Dados (modelagem SQL) |
-|- Algoritmos e Programação                 |             |- Desenvolvimento Web (HTML, CSS, JS, PHP) |
-|- Matemática Discreta                      |             |- Arquitetura de Computadores |
-|- Lóogica Matemática                       |             |- Educação em Direitos Humanos |
-|- Fundamentos de Programação               |             |- Programação Orientado a Objetos |
-|- Computação em Nuvem                      |             |- Paradigmas em Python |  
-|- Portugês Instrumental                    |             |- Macroeconomia 1 |
+# 📚 Disciplinas Cursadas (até o momento)  
+| ------------------------------------------- Disciplinas -----------------------------------------------------|
+
+|  Introdução à Programação de Computadores |             |  Cálculo 1 |
+|  Fundamentos de Redes de Computadores     |             |  Lógica Aplicada a Computação |
+|  Introdução a Segurança da Informação     |             |  Programação Estruturada |
+|  Pensamento Computacional                 |             |  Educação Ambiental |
+|  Comounicação e Expressão                 |             |  Banco de Dados (modelagem SQL) |
+|  Algoritmos e Programação                 |             |  Desenvolvimento Web (HTML, CSS, JS, PHP) |
+|  Matemática Discreta                      |             |  Arquitetura de Computadores |
+|  Lóogica Matemática                       |             |  Educação em Direitos Humanos |
+|  Fundamentos de Programação               |             |  Programação Orientado a Objetos |
+|  Computação em Nuvem                      |             |  Paradigmas em Python |  
+|  Portugês Instrumental                    |             |  Macroeconomia 1 |
 
 # 📊 Estatísticas 
 <div align="center">
