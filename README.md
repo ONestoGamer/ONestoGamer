@@ -26,42 +26,19 @@ Olá! 🖖
 #### Criei repositórios para armazenar alguns projetos, atividades e desafios propostos nos cursos que fiz e que irei fazer junto a [Alura](https://cursos.alura.com.br/imer0soes), [DIO](https://www.dio.me/), [IFS](https://www.ifs.edu.br/lagarto.html) e a UESA - [Universidade Estácio de Sá](https://estacio.br).
 
 # 📚 Disciplinas Cursadas (até o momento)  
-
-<div style="display: flex; gap: 16px;">
-
-  <div style="flex: 1;">
-    <h3>Coluna 1</h3>
-    <p>  
- - Introdução à Programação de Computadores
- - Fundamentos de Redes de Computadores
- - Introdução a Segurança da Informação 
- - Pensamento Computacional
- - Comounicação e Expressão
- - Algoritmos e Programação
- - Matemática Discreta     
- - Lóogica Matemática    
- - Fundamentos de Programação
- - Computação em Nuvem       
- - Portugês Instrumental     
-  </div>
-
-  <div style="flex: 1;">
-    <h3>Coluna 2</h3>
-    <p>
-- Cálculo 1
-- Lógica Aplicada a Computação 
-- Programação Estruturada 
-- Educação Ambiental 
--  Banco de Dados (modelagem SQL) 
-- Desenvolvimento Web (HTML, CSS, JS, PHP) 
-- Arquitetura de Computadores 
-- Educação em Direitos Humanos 
-- Programação Orientado a Objetos 
-- Paradigmas em Python   
-- Macroeconomia 1 </p>
-  </div>
-
-</div>
+| IFS | Estácio |
+|--------|---------|
+| Introdução à Programação de Computadores | Cálculo 1 |
+| Fundamentos de Redes de Computadores | Lógica Aplicada a Computação |
+| Introdução a Segurança da Informação | Programação Estruturada | 
+| Pensamento Computacional | Educação Ambiental |
+| Comounicação e Expressão | Banco de Dados (modelagem SQL) | 
+| Algoritmos e Programação | Desenvolvimento Web (HTML, CSS, JS, PHP) |
+| Matemática Discreta | Arquitetura de Computadores |
+| Lóogica Matemática | Educação em Direitos Humanos | 
+| Fundamentos de Programação | Programação Orientado a Objetos |
+| Computação em Nuvem | Paradigmas em Python |
+| Portugês Instrumental | Macroeconomia 1 |
 
 
 # 📊 Estatísticas 
@@ -79,23 +56,23 @@ Olá! 🖖
 
 
 # 💻 Cursos extras
-| Cursos | Instituições de Ensino |
-|-------|----------|
-| Imersão Dados em Python | [Alura](https://cursos.alura.com.br/imer0soes) |
-| Introdução ao Python com a Suzano | [DIO](https://www.dio.me/) |
-| Imersão Agentes de IA | [Alura](https://cursos.alura.com.br/imersoes) |
-| Versionamento de Código com Git e GitHub | [DIO](https://www.dio.me/) |
-| Ambiente de Desenvolvimento e Primeiros Passos com Python | [DIO](https://www.dio.me/)|
-| Conhecendo a Linguagem de Programação Python | [DIO](https://www.dio.me/) |
-| Desafios de Projetos: Crie Um Portfólio Vencedor | [DIO](https://www.dio.me/) | 
-| Santander 2025 - Fundamentos de Lógica de Programação |  [DIO](https://www.dio.me/) |
-| PcD Tech Bradesco - Java & QA Developer |  [DIO](https://www.dio.me/) |
-| Formação Java Fundamentals |  [DIO](https://www.dio.me/) |
-| Nexa - Machine Learning e GenAI na Prática |  [DIO](https://www.dio.me/) |
-| CI&T - Backend com Java & AWS |  [DIO](https://www.dio.me/) |
-| Accenture - Desenvolvimento Java & Cloud |  [DIO](https://www.dio.me/) |
-| CAIXA - Inteligência Artificial na Prática |  [DIO](https://www.dio.me/) |
-| Luizalabs - Back-end com Python |  [DIO](https://www.dio.me/) |
+| Cursos | Instituições de Ensino | Situação |
+|-------|----------|----------|
+| Imersão Dados em Python | [Alura](https://cursos.alura.com.br/imer0soes) | Concluído |
+| Introdução ao Python com a Suzano | [DIO](https://www.dio.me/) | Concluído |
+| Imersão Agentes de IA | [Alura](https://cursos.alura.com.br/imersoes) | Concluído |
+| Versionamento de Código com Git e GitHub | [DIO](https://www.dio.me/) | Concluído |
+| Ambiente de Desenvolvimento e Primeiros Passos com Python | [DIO](https://www.dio.me/)| Concluído |
+| Conhecendo a Linguagem de Programação Python | [DIO](https://www.dio.me/) | Concluído |
+| Desafios de Projetos: Crie Um Portfólio Vencedor | [DIO](https://www.dio.me/) | Concluído | 
+| Santander 2025 - Fundamentos de Lógica de Programação |  [DIO](https://www.dio.me/) | Concluído |
+| PcD Tech Bradesco - Java & QA Developer |  [DIO](https://www.dio.me/) | Em andamento |
+| Formação Java Fundamentals |  [DIO](https://www.dio.me/) | Concluído |
+| Nexa - Machine Learning e GenAI na Prática |  [DIO](https://www.dio.me/) | Concluído |
+| CI&T - Backend com Java & AWS |  [DIO](https://www.dio.me/) | Em andamento |
+| Accenture - Desenvolvimento Java & Cloud |  [DIO](https://www.dio.me/) | Em andamento |
+| CAIXA - Inteligência Artificial na Prática |  [DIO](https://www.dio.me/) | Concluído |
+| Luizalabs - Back-end com Python |  [DIO](https://www.dio.me/) | Em andamento |
 
 
 
